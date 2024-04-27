@@ -96,8 +96,8 @@ else:
 ![image](https://github.com/lalitchandran/Search-Algorithms/assets/137707725/11764e4c-9656-4221-9551-53236b57ac6e)
 
 ![image](https://github.com/lalitchandran/Search-Algorithms/assets/137707725/4004f16a-a5d7-4b83-9d21-a52b709ed3a7)
+![image](https://github.com/lalitchandran/Search-Algorithms/assets/137707725/61c6ebee-fb76-4bc1-88ef-9d610411fa6c)
 
-![image](https://github.com/lalitchandran/Search-Algorithms/assets/137707725/c3062b06-c482-4950-901e-442a80f57a30)
 
 
 
